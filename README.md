@@ -1,6 +1,6 @@
 # 1. Autoencoder
 
-execution instuctions: $ python3 autoencoder.py -d <dataset path>
+execution instuctions: $ python3 autoencoder.py -d <dataset_path>
   
   The program can't be executed without the path of the dataset.
 
@@ -23,7 +23,7 @@ Best results with hyperparameters:
 ---------------
 # 2. Classification
   
-execution instuctions: $ python3 classification.py -d <dataset path> -dl
+execution instuctions: $ python3 classification.py -d <dataset_path> -dl
 <dataset_labels> -t <trainset_path> -tl <trainset_labels> -model <saved_model_name>
   
   The program can't be executed without these instructions in this specific order.
