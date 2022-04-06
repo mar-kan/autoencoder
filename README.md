@@ -2,7 +2,7 @@
 
 execution instuctions: $ python3 autoencoder.py -d <dataset_path>
   
-  The program can't be executed without the path of the dataset.
+  The program can't be executed without the path of the dataset as an argument.
 
 ---------------
   
