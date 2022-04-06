@@ -6,7 +6,7 @@ execution instuctions: $ python3 autoencoder.py -d <dataset_path>
 
 ---------------
   
-The program trains an autoencoder to autoencode images. 
+The program trains an autoencoder to encode and reconstruct images. 
 
 The dataset used for the project is the MNIST dataset of hand written digits. 
   
